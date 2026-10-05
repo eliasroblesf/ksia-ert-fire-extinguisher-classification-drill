@@ -1,0 +1,8 @@
+{
+  "name": "Remix ksia-ert-fire-extinguisher-classification-drill",
+  "description": "ksia-ert-fire-extinguisher-classification-drill-v2",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
